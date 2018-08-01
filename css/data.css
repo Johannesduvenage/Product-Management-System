@@ -1,0 +1,17 @@
+body {
+    background:#ebeeef;
+    font-family: 'Titillium Web', sans-serif;
+    background-size:cover;
+}
+.too{
+    background-color: #1ab188;
+    padding-top:20px;
+    padding-bottom: 50px;
+    }
+.too h1{
+    text-align:center;
+}
+.date_form{
+    float: right;
+    
+}

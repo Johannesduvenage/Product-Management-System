@@ -1,0 +1,50 @@
+body{
+	background:#ebeeef;
+	margin-bottom: 40px;
+}
+.tittle{
+	text-align:center;
+	font-family:Arial;
+	color:green;
+}
+.container{
+	background:#fff;
+	margin-top:30px;
+	padding:20px;
+	border-radius:10px;
+	font-size:20px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.sub_tittle{
+	padding-left:13%;
+	padding-top:40px;
+	font-weight:bold;
+	font-size:20px;
+}
+.zim{
+	margin-left:26%;
+	min-width:100px;
+	font-size:20px;
+}
+.adduser{
+	padding-left:26%;
+}
+input[type="text"]{
+	border:none;
+	border-bottom:1px solid;
+}
+input[type="password"]{
+	border:none;
+	border-bottom:1px solid;
+}
+input[type="date"]{
+	border:none;
+	border-bottom:1px solid;
+}
+.ado{
+	margin-left:30%;
+	border:1px solid;
+}
+.ado td{
+	padding:10px;
+}

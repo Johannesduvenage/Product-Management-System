@@ -1,0 +1,37 @@
+body {
+    background:#ebeeef;
+    font-family: 'Titillium Web', sans-serif;
+    background-size:cover;
+}
+.too{
+text-align:center;
+background-color: #1ab188;
+padding-top:20px;
+padding-bottom: 20px;
+}
+.container1{
+	background:#fff;
+	margin-top:20px;
+	padding:20px;
+	border-radius:10px;
+	font-size:20px;
+	font-family: bold;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	height:70px;
+
+}
+.status{
+	padding-left:30%; 	
+}
+a:link {
+	color:black;
+	text-decoration: none;
+}
+a:visited {
+	color:black;
+    text-decoration: none;
+}
+label{
+	font-weight: bold;
+	font-size: 23px;
+}
